@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hewlett Packard\\Documents\\eje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{252B87F0-A698-4072-88FC-E0F2D8F3BDCF}|kkkkk\\kkkkk.csproj|c:\\users\\hewlett packard\\documents\\eje\\kkkkk\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252B87F0-A698-4072-88FC-E0F2D8F3BDCF}|kkkkk\\kkkkk.csproj|solutionrelative:kkkkk\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C34921BF-3EE8-4DDB-9DFD-77F46D5120CC}|ejem\\ejem.csproj|c:\\users\\hewlett packard\\documents\\eje\\ejem\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C34921BF-3EE8-4DDB-9DFD-77F46D5120CC}|ejem\\ejem.csproj|solutionrelative:ejem\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Hewlett Packard\\Documents\\eje\\kkkkk\\Class1.cs",
+              "RelativeDocumentMoniker": "kkkkk\\Class1.cs",
+              "ToolTip": "C:\\Users\\Hewlett Packard\\Documents\\eje\\kkkkk\\Class1.cs",
+              "RelativeToolTip": "kkkkk\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:49:12.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Hewlett Packard\\Documents\\eje\\ejem\\Class1.cs",
+              "RelativeDocumentMoniker": "ejem\\Class1.cs",
+              "ToolTip": "C:\\Users\\Hewlett Packard\\Documents\\eje\\ejem\\Class1.cs",
+              "RelativeToolTip": "ejem\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:48:43.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
